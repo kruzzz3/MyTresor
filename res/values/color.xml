@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="c_TextBackground">#333333</color>
+    <color name="c_TextColorLight">#EEEEEE</color>
+    <color name="c_TextColorDark">#333333</color>
+    <color name="c_ScreenBackgroundLight">#EEEEEE</color>
+    <color name="c_ScreenBackgroundDark">#333333</color>
+    <color name="c_ScreenTopBottom">#111111</color>
+    <color name="color3">#FF0000</color>
+    <color name="color4">#00FF00</color>
+    <color name="color5">#0000FF</color>
+    <color name="color6">#FF00FF</color>
+    <color name="color7">#FFFF00</color>
+    <color name="color8">#00FFFF</color>
+    <color name="color9">#888888</color>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyTresor</string>
+    
+    <string name="start_titel">Sicheres Passwort</string>
+	<string name="start_weiter1">Weiter</string>
+	<string name="start_weiter2">Zurück</string>
+	
+	<string name="mp_dialog">Wollen Sie MyTresor beenden?</string>
+    <string name="mp_dialog_true">Beenden</string>
+    <string name="mp_dialog_false">Abbrechen</string>
+	<string name="mp_titel">Passworteingabe</string>
+	<string name="mp_neutext">Geben Sie Ihr gewünschtes Masterpasswort ein und bestätigen Sie mit \"Weiter\"</string>
+	<string name="mp_weiter1">Öffnen</string>
+	<string name="mp_weiter2">Weiter</string>
+	
+	<string name="verwaltung_dialog">Wollen Sie zurück zur Passworteingabe?</string>
+    <string name="verwaltung_dialog_true">Zurück</string>
+    <string name="verwaltung_dialog_false">Abbrechen</string>
+    <string name="verwaltung_titel">Passwortverwaltung</string>
+    <string name="verwaltung_neu">Neuer Eintrag</string>
+    
+    <string name="neuereintrag_titel">Neuer Eintrag</string>
+    
+    <string name="neuereintrag_bezeichnung">Bezeichnung</string>
+    <string name="neuereintrag_bp_benutzername">Benutzername</string>
+    <string name="neuereintrag_bp_passwort">Passwort</string>
+    <string name="neuereintrag_p_passwort">Pincode</string>
+    <string name="neuereintrag_f_passwort">Freitext</string>
+    
+    <string name="neuereintrag_speichern">Speichern</string>
+    
+    
+    <string name="einstellungen_titel">Einstellungen</string>
+    <string name="einstellungen_weiter1">Speichern</string>
+    <string name="einstellungen_weiter2">Weiter</string>
+	
+</resources>
